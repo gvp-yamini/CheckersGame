@@ -1,0 +1,6 @@
+/IBoardLambada.class
+/IBoardStatusVisitor.class
+/ICheckMoveVisitor.class
+/INextMoveStrategy.class
+/IUndoMove.class
+/IUndoVisitor.class
